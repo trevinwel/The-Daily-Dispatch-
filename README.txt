@@ -6,7 +6,7 @@ A secure, modular digital news platform built for the Web Application Developmen
 
 Technology Stack
 
-Backend: PHP 8.2 (Strict Object-Oriented Programming, No Frameworks)
+Backend: PHP 8.2 (Strict Object-Oriented Programming)
 Database:MySQL 8.0 (InnoDB engine for foreign keys and FULLTEXT searching)
 Frontend:Vanilla JavaScript (ES6) & Semantic CSS3 (Grid / Flexbox)
 Environment:Apache 2.4 via XAMPP 8.2 on Windows 11
