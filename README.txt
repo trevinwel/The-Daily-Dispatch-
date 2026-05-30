@@ -1,6 +1,6 @@
 The Daily Dispatch
 
-A secure, modular digital news platform built for the Web Application Development module (PUSL3190) 
+A secure, modular digital news platform built for the Web Application Development module 
 
 
 
